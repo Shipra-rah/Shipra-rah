@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-profile-banner.svg" alt="Shivanshu Profile Banner" width="100%">
+  <img src="assets/github-profile-banner.svg" alt="Shivanshu Profile Banner" width="100%">
 </p>
 
 
