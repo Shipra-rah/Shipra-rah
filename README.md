@@ -1,22 +1,10 @@
-<table width="100%" padding-y="5px">
+<table align="center" cellspacing="0" cellpadding="8" border="1">
   <tr>
-    <td width="50%" align="center">
-      <img
-        src="ascii-art.svg"
-        alt="ASCII Portrait"
-        width="400"
-        height="450"
-        style="border:1px solid #d0d7de; border-radius:8px;"
-      />
+    <td style="border-left:1px solid #666;border-right:1px solid #666;border-bottom:1px solid #666;">
+      <img src="ascii-art.svg" width="390" alt="ASCII Art">
     </td>
-    <td width="50%" align="center">
-      <img
-        src="terminal.svg"
-        alt="Terminal Profile"
-        width="450"
-        height="500"
-        style="border:1px solid #d0d7de; border-radius:8px;"
-      />
+    <td style="border-left:1px solid #666;border-right:1px solid #666;border-bottom:1px solid #666;">
+      <img src="terminal.svg" width="390" alt="Terminal">
     </td>
   </tr>
 </table>
