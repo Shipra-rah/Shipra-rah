@@ -1,13 +1,6 @@
-<table align="center" cellspacing="0" cellpadding="8" border="1">
-  <tr>
-    <td style="border-left:1px solid #666;border-right:1px solid #666;border-bottom:1px solid #666;">
-      <img src="ascii-art.svg" width="390" alt="ASCII Art">
-    </td>
-    <td style="border-left:1px solid #666;border-right:1px solid #666;border-bottom:1px solid #666;">
-      <img src="terminal.svg" width="390" alt="Terminal">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="github-profile-banner.svg" alt="Shivanshu Profile Banner" width="100%">
+</p>
 
 
 <br/>
