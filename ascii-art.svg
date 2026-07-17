@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="679" viewBox="0 0 667 679">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="679" viewBox="0 0 780 679">
 <defs><clipPath id="roundedAscii"><rect width="780" height="679" rx="12"/></clipPath></defs>
 <g clip-path="url(#roundedAscii)">
-<rect width="667" height="679" fill="#0d1117"/>
-<rect x="0" y="0" width="667" height="34" fill="#161b22"/>
+<rect width="780" height="679" fill="#0d1117"/>
+<rect x="0" y="0" width="780" height="34" fill="#161b22"/>
 <line x1="0" y1="34" x2="667" y2="34" stroke="#30363d" stroke-width="1"/>
 <circle cx="18" cy="18" r="6" fill="#ff5f56"/>
 <circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
 <circle cx="58" cy="17" r="6" fill="#27c93f"/>
-<text x="333.5" y="21" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">ascii-art.svg</text>
+<text x="333.5" y="21" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">Profile-ASCII</text>
 <text x="10" y="48" font-family="monospace" font-size="6" fill="#58a6ff" xml:space="preserve">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣶⣤⣤⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⣤⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</text>
 <text x="10" y="55" font-family="monospace" font-size="6" fill="#58a6ff" xml:space="preserve">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⣤⣀⣤⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣶⣤⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣤⣤⣶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</text>
 <text x="10" y="62" font-family="monospace" font-size="6" fill="#58a6ff" xml:space="preserve">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣀⣀⣀⣀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⣀⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</text>
