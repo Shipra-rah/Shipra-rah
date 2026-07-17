@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="614" viewBox="0 0 780 614">
-<defs><clipPath id="roundedTerm"><rect width="780" height="614" rx="12"/></clipPath></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="679" viewBox="0 0 780 679">
+<defs><clipPath id="roundedTerm"><rect width="780" height="679" rx="12"/></clipPath></defs>
 <g clip-path="url(#roundedTerm)">
-<rect width="780" height="614" fill="#0d1117"/>
+<rect width="780" height="679" fill="#0d1117"/>
 <rect x="0" y="0" width="780" height="34" fill="#161b22"/>
 <line x1="0" y1="34" x2="780" y2="34" stroke="#30363d" stroke-width="1"/>
 <circle cx="18" cy="17" r="6" fill="#ff5f56"/>
 <circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
 <circle cx="58" cy="17" r="6" fill="#27c93f"/>
-<text x="390.0" y="21" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">terminal-info.svg</text>
+<text x="390.0" y="21" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">Shivanshu-Profile</text>
+<circle cx="680" cy="18" r="3" fill="#27c93f"/>
+<text x="710.0" y="21" font-family="monospace" font-size="12" fill="green" text-anchor="middle">live</text>
 <text x="20" y="64" font-family="monospace" font-size="14" fill="#58a6ff">shivanshu@fullstack</text>
 <text x="240" y="64" font-family="monospace" font-size="14" fill="#f0883e">~ %</text>
 <text x="280" y="64" font-family="monospace" font-size="14" fill="#f2cc60">./profile --live</text>
@@ -17,7 +19,7 @@
 <text x="20" y="116" font-family="monospace" font-size="14" fill="#f778ba">PORTRAIT.SIGNAL</text>
 <text x="220" y="116" font-family="monospace" font-size="14" fill="#8b949e">/</text>
 <text x="230" y="116" font-family="monospace" font-size="14" fill="#79c0ff">FULLSTACK.BUILDER</text>
-<text x="20" y="152" font-family="monospace" font-size="14" fill="#58a6ff">shivanshu@fullstack</text>
+<text x="20" y="152" font-family="monospace" font-size="14" fill="#58a6ff">shivanshu@fullstack ---------------------------------------------------</text>
 <text x="20" y="178" font-family="monospace" font-size="14" fill="#8b949e">- Subject:</text>
 <text x="180" y="178" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="178" font-family="monospace" font-size="14" fill="#f0f6fc">Shivanshu</text>
@@ -33,7 +35,7 @@
 <text x="20" y="266" font-family="monospace" font-size="14" fill="#8b949e">- Status:</text>
 <text x="180" y="266" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="266" font-family="monospace" font-size="14" fill="#f0f6fc">Building Scalable Systems / Coding</text>
-<text x="20" y="296" font-family="monospace" font-size="14" fill="#f778ba">- SKILL.SET</text>
+<text x="20" y="296" font-family="monospace" font-size="14" fill="#f778ba">- SKILL.SET ------------------------------------------------------------</text>
 <text x="20" y="322" font-family="monospace" font-size="14" fill="#8b949e">- Frontend:</text>
 <text x="180" y="322" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="322" font-family="monospace" font-size="14" fill="#f0f6fc">React JS, TypeScript, Tailwind CSS</text>
@@ -43,7 +45,7 @@
 <text x="20" y="366" font-family="monospace" font-size="14" fill="#8b949e">- Database:</text>
 <text x="180" y="366" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="366" font-family="monospace" font-size="14" fill="#f0f6fc">Hibernate, JPA, MySQL, PostgreSQL</text>
-<text x="20" y="396" font-family="monospace" font-size="14" fill="#f778ba">- PROJECT.LOG</text>
+<text x="20" y="396" font-family="monospace" font-size="14" fill="#f778ba">- PROJECT.LOG ----------------------------------------------------------</text>
 <text x="20" y="422" font-family="monospace" font-size="14" fill="#8b949e">- E-Commerce:</text>
 <text x="180" y="422" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="422" font-family="monospace" font-size="14" fill="#f0f6fc">Spring Boot + React Microservices</text>
@@ -53,7 +55,7 @@
 <text x="20" y="466" font-family="monospace" font-size="14" fill="#8b949e">- ChatApp:</text>
 <text x="180" y="466" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="466" font-family="monospace" font-size="14" fill="#f0f6fc">WebSockets + React Integration</text>
-<text x="20" y="496" font-family="monospace" font-size="14" fill="#f778ba">- CONNECT</text>
+<text x="20" y="496" font-family="monospace" font-size="14" fill="#f778ba">- CONNECT --------------------------------------------------------------</text>
 <text x="20" y="522" font-family="monospace" font-size="14" fill="#8b949e">- GitHub:</text>
 <text x="180" y="522" font-family="monospace" font-size="14" fill="#8b949e" textLength="55" lengthAdjust="spacingAndGlyphs">........</text>
 <text x="240" y="522" font-family="monospace" font-size="14" fill="#58a6ff">@Shipra-rah</text>
