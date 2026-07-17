@@ -1,12 +1,24 @@
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="ascii-art.svg" alt="ascii portrait" height="340"/>
-</td>
-<td width="50%" align="center">
-  <img src="terminal.svg" alt="profile terminal" height="400"/>
-</td>
-</tr>
+<table width="100%" padding-y="5px">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="ascii-art.svg"
+        alt="ASCII Portrait"
+        width="400"
+        height="350"
+        style="border:1px solid #d0d7de; border-radius:8px;"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="terminal.svg"
+        alt="Terminal Profile"
+        width="450"
+        height="450"
+        style="border:1px solid #d0d7de; border-radius:8px;"
+      />
+    </td>
+  </tr>
 </table>
 
 
