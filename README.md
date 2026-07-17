@@ -5,7 +5,7 @@
         src="ascii-art.svg"
         alt="ASCII Portrait"
         width="400"
-        height="350"
+        height="450"
         style="border:1px solid #d0d7de; border-radius:8px;"
       />
     </td>
@@ -14,7 +14,7 @@
         src="terminal.svg"
         alt="Terminal Profile"
         width="450"
-        height="450"
+        height="500"
         style="border:1px solid #d0d7de; border-radius:8px;"
       />
     </td>
